@@ -88,16 +88,13 @@ h3. Color Theme
 
 h3. Config Files
 * "Maximum Awesome":https://github.com/square/maximum-awesome - Config files for vim and tmux. (由 Square 的技术团队开源提供)
-
-h3. Install Script
 * "janus":https://github.com/carlhuda/janus
 * "vimx":https://github.com/guoqiao/vimx
 * "vimified":https://github.com/ayang/vimified
 * "k-vim":https://github.com/wklken/k-vim
-* "chunleiyang/dot-vimrc":https://github.com/chunleiyang/dot-vimrc
+* "humiaozuzu/dot-vimrc":https://github.com/humiaozuzu/dot-vimrc
 
 h3. Other
-
 * "Vim官方网站":http://www.vim.org/
 * "MacVim":https://github.com/b4winckler/macvim/downloads
 * "Vim在线视频教程":http://vimcasts.org/
@@ -115,7 +112,6 @@ h3. References
 h1(#eclipse). Eclipse
 
 h3. Plugins
-
 * "EasyStruts":http://sourceforge.net/projects/easystruts/ - 打开选定文件所在目录
 * "Fullscreen":http://scharf.gr/eclipse/fullscreen/update/ - 全屏插件
 * "Subclipse":http://subclipse.tigris.org - SVN插件
@@ -126,18 +122,15 @@ h3. Plugins
 h1(#jetbrains). JetBrains
 
 h3. References
-
 * "大猫的前端开发指南":https://github.com/damao/Intellij-IDEA-F2E
 
 h3. Color Theme
-
 * "Smyck":https://github.com/rotespferd/Smyck-Color-Scheme/blob/master/Smyck-Jetbrains.xml
 * "Paraiso":https://github.com/idleberg/Paraiso-IntelliJ-IDEA
 * "Kimbie":https://github.com/idleberg/Kimbie-IntelliJ-IDEA
 * "ApplePips":https://github.com/idleberg/ApplePips-IntelliJ-IDEA
 
 h3. 常用快捷键
-
 * Ctrl+Q：查看注释信息
 * Alt+Insert：生成代码，如get、set方法
 * Alt+Enter：导入包、自动修正、生成未定义的方法
@@ -159,7 +152,6 @@ h3. 常用快捷键
 h1(#xcode). Xcode
 
 h3. Plugins
-
 * "Alcatraz":http://mneorr.github.io/Alcatraz/ ("使用教程":http://blog.devtang.com/blog/2014/03/05/use-alcatraz-to-manage-xcode-plugins/) - Xcode 插件管理器 
 * "BBUDebuggerTuckAway":https://github.com/neonichu/BBUDebuggerTuckAway - 编写代码时自动收缩底部调试栏
 * "ClangFormat-Xcode":https://github.com/travisjeffery/ClangFormat-Xcode - 格式化插件
@@ -174,7 +166,6 @@ h3. Plugins
 * "lin":https://github.com/questbeat/Lin-Xcode5 - 多语言管理插件
 
 h3. 常用快捷键
-
 * *Control + I* : 对选中文字重新格式化
 * *Control + Command + UP / DOWN* : 切换当前文件头文件和实现文件
 * *Control + Command + LEFT / RIGHT* : 切换历史上/下一个文件
@@ -191,7 +182,6 @@ h3. 常用快捷键
 * *Control + Command + Y* : 继续运行
 
 h3. Other
-
 * "XCode快捷键图示":/uploads/xcode.jpg
 * "xcode-themes":https://github.com/tursunovic/xcode-themes
 
@@ -200,7 +190,6 @@ h1(#webide). Web IDE
 * "Koding":https://koding.com
 
 h1(#osx). OSX相关
-
 * "Atom":https://atom.io/ - Github 推出的一款开源编辑器
 * "CodeRunner":http://soft.macx.cn/index.htm - 快速编译运行代码片段
 * "Tincta":http://mr-fridge.de/software/tincta/index.php - 文本编辑器
@@ -223,7 +212,6 @@ h1(#osx). OSX相关
 * "Json Editor":http://jsoneditor.blogspot.ro/
 
 h1(#windows). Windows相关
-
 * "Notepad++":http://notepad-plus-plus.org/ - 免费强大的代码编辑工具
 * "Intype":http://inotai.com/intype/ - Windows下的textmate替代软件
 * "SciTe":http://www.scintilla.org/
@@ -234,16 +222,12 @@ h1(#windows). Windows相关
 ** 通过 "映像劫持":http://www.portablesoft.org/notepad2-replacement/ 实现Notepad2替换记事本
 
 h1(#themes). Color Themes
-
 * "base16":https://github.com/chriskempson/base16
 * "Solarized":http://ethanschoonover.com/solarized
 * "Dracula":https://github.com/zenorocha/dracula-theme
 
 h1(#fonts). Code Fonts
-
 * "Meslo":https://github.com/andreberg/Meslo-Font - 在不支持调整行高的编辑器下用这款字体很合适
 * "Adobe Source Code Pro":http://sourceforge.net/projects/sourcecodepro.adobe/ - adobe 推出的代码字体
 * "Source Sans Pro":http://sourceforge.net/projects/sourcesans.adobe/ - 同上
 * "M+ Fonts":http://mplus-fonts.sourceforge.jp/
-
-h1(#website). Website

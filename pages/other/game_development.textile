@@ -131,6 +131,7 @@ h3(#game_studio). Game Studio
 
 h3(#develop_website). Development Website
 * "gamedev":http://www.gamedev.net/
+* "Red Blob Games ":http://www.redblobgames.com/ - 作者分享了一些游戏制作思路及可视化例子
 
 h3(#source_code). Source Code
 * "口袋仙侠":http://git.oschina.net/9miao/KouDaiXianXia - 基于 Cocos2d-x 的横版 RTS 游戏源码

@@ -119,3 +119,4 @@ h3. 其他
 
 h3. for iPad
 * Paper by FiftyThree
+* Duet Display - 将iPad设置为第二屏

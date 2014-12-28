@@ -44,7 +44,6 @@ h3(#web_framework). Web Framework
 ** "Flask Base":https://github.com/notedit/flask-base - Flask虚拟环境搭建
 ** *Extension*
 ** "Flask-Security":https://github.com/mattupstate/flask-security - 一款登录/权限扩展
-
 * "Tenjin":http://www.kuwata-lab.com/tenjin/
 * "Tornado":http://www.tornadoweb.org/
 ** "torndb":https://github.com/bdarnell/torndb - 基于MySQLdb的封装，方便在tornado操作Mysql数据库
@@ -52,6 +51,7 @@ h3(#web_framework). Web Framework
 ** "Github上一些不错的Tornado资源":https://github.com/facebook/tornado/wiki/Links
 * "Pylons":http://pylonshq.com/
 * "pysi":https://bitbucket.org/imbolc/pysi
+* "shake":https://github.com/lucuma/shake - 基于 Werkzeug 和 Flask 的 web framework，Flask 之外的另外一种选择
 * "TurboGears":http://turbogears.org/
 * "Web.py":http://webpy.org/
 * "Web2py":http://web2py.com/
