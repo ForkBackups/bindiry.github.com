@@ -7,6 +7,7 @@ title: Editor & IDE - Software
 h3. Contents
 * "Sublime Text":#sublime_text
 * "Vim":#vim
+* "Emacs":#emacs
 * "Eclipse":#eclipse
 * "JetBrains's IDE":#jetbrains
 * "Web IDE":#webide
@@ -104,6 +105,12 @@ h3. Other
 * "Vim图表":http://michael.peopleofhonoronly.com/vim/
 * "Vim图表2":http://walking-without-crutches.heroku.com/image/images/vi-vim-cheat-sheet.png
 * "Vim-Adventures":http://vim-adventures.com/ - 一款在线Vim游戏
+
+h1(#emacs). Emacs
+
+h3. References
+* "Emacs使用指南":https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org
+* "使用 Emacs":https://ruby-china.org/wiki/emacs-for-rails
 
 h1(#eclipse). Eclipse
 
