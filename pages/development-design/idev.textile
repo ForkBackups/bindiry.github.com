@@ -41,7 +41,6 @@ h3. Utility Tools
 ** "SSL Kill Switch":https://github.com/iSECPartners/ios-ssl-kill-switch
 
 h3. Library
-
 * "AFNetworking":https://github.com/AFNetworking/AFNetworking - 好用的网络请求库 for iOS and OS X（请求接口，加载图片，上传文件等）
 * "YTKNetwork":https://github.com/yuantiku/YTKNetwork - YTKNetwork is a high level request util based on AFNetworking.
 * "ASIHTTPRequest":https://github.com/pokeb/asi-http-request - 适合开发一些复杂应用的网络库
@@ -83,6 +82,7 @@ h3. Library
 * "SDWebImage":https://github.com/rs/SDWebImage - 图片缓存库
 * "KoaPullToRefresh":https://github.com/sergigracia/KoaPullToRefresh - 下拉刷新库
 * "Alamofire":https://github.com/Alamofire/Alamofire - an HTTP networking library written in Swift
+* "peertalk":https://github.com/rsms/peertalk - 实现iOS和OSX设备间通过数据线进行通信的库
 
 h3. Framewok
 
