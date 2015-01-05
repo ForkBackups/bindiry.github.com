@@ -230,4 +230,7 @@ h1(#fonts). Code Fonts
 * "Meslo":https://github.com/andreberg/Meslo-Font - 在不支持调整行高的编辑器下用这款字体很合适
 * "Adobe Source Code Pro":http://sourceforge.net/projects/sourcecodepro.adobe/ - adobe 推出的代码字体
 * "Source Sans Pro":http://sourceforge.net/projects/sourcesans.adobe/ - 同上
+* "Input":http://input.fontbureau.com/info/
+* "PT Mono":http://www.google.com/fonts/specimen/PT+Mono
+* "Anonymous Pro":http://www.marksimonson.com/fonts/view/anonymous-pro
 * "M+ Fonts":http://mplus-fonts.sourceforge.jp/
