@@ -99,8 +99,6 @@ h3. 网络应用
 * *服务类*
 ** "Disqus":http://disqus.com/ - 提供支持社交媒体的评论功能托管
 ** "友言":http://uyan.cc/ - 国内版的Disqus
-** "评论啦":http://pinglun.la/
-** "无觅相关文章":http://www.wumii.com/widget/relatedItems - 一款相关文章插件
 ** "tinyletter":http://tinyletter.com - 提供简洁实用的邮件列表服务
 ** "mailchimp":http://mailchimp.com - 同上
 ** "IFTTT":https://ifttt.com/ - 基于条件出发任务的网站
