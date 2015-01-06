@@ -94,14 +94,13 @@ h3(#development). 开发
 
 * "Editor/IDE":http://wiki.junnan.org/pages/software/editor_ide.html#osx
 * "Vagrant":http://www.vagrantup.com/ - 一款基于ruby的跨平台虚拟开发环境部署软件，非常实用
-
 * "Hypernap":http://gethypernap.com/ - 网站 API 测试工具
 
 * *(#version)版本管理*
 ** "SourceTree":http://www.sourcetreeapp.com/ - 同时支持Git、Mercurial的客户端
 ** *(#svn)SVN*
-*** "Versions":http://versionsapp.com/ - SVN客户端
 *** "Cornerstone":http://www.zennaware.com/cornerstone/index.php - SVN客户端
+*** "Versions":http://versionsapp.com/ - SVN客户端
 ** *(#git)Git*
 *** "Tower":http://www.git-tower.com/
 *** "Github":http://mac.github.com - 免费的github官方客户端
