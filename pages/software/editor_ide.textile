@@ -188,6 +188,11 @@ h3. Other
 h1(#webide). Web IDE
 * "CodeBox":https://www.codebox.io/
 * "Koding":https://koding.com
+* "compilr":http://compilr.com - 支持语言众多
+* "CoderBuddy":http://coderbuddy1.appspot.com - 可以在线创建、编辑、发布google app engine应用的网站
+* "Cloud9 IDE":https://c9.io/ - 在线云IDE支持 Github 和 BitBucket
+* "Nitrous.io":https://www.nitrous.io
+* "Codenvy":https://codenvy.com/
 
 h1(#osx). OSX相关
 * "Atom":https://atom.io/ - Github 推出的一款开源编辑器

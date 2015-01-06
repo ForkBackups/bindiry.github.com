@@ -27,11 +27,4 @@ h3. API 撰写支持
 h3. Other
 * "Markdown语法说明-简体中文版":http://wowubuntu.com/markdown/
 * "程序员能力矩阵":http://static.icybear.net/%5BCN%5DProgrammer%20competency%20matrix.htm
-
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br />
+* "Awesome Remote Job":https://github.com/lukasz-madon/awesome-remote-job
