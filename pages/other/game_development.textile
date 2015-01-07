@@ -28,6 +28,7 @@ h3(#engine). Engine
 * "Moai":http://getmoai.com/ - 面向专业游戏开发者的开源手机游戏开发平台
 * "stencyl":http://www.stencyl.com/ - 傻瓜游戏制作工具
 * "Unity3D":http://unity3d.com/ - 跨平台综合型游戏开发引擎
+* "Paradox3D":http://paradox3d.net/ - Create cross-platform games in C#
 
 h3(#assets). Assets
 
@@ -140,3 +141,4 @@ h3(#source_code). Source Code
 
 h3(#references). References
 * "Game Programming Patterns":http://gameprogrammingpatterns.com/introduction.html - 游戏开发设计模式，EA 游戏编程师八年经验总结
+* "百万用户排名的设计想法":https://github.com/thomashuang/Nagi/blob/master/design_cn.rst
