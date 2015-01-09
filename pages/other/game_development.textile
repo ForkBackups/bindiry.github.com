@@ -97,6 +97,7 @@ h3(#tools). Tools
 ** "GarageBand":http://itunes.apple.com/cn/app/garageband/id408980954?l=en&mt=12/
 ** "Steinberg Nuendo":http://lorenzofox3.github.io/smart-table-website/
 * **模型**
+** "m3addon":https://github.com/flo/m3addon - Blender Addon to import and export m3 files
 ** "blendm3":https://github.com/stante/blendm3 - Blender add-on to import Blizzard .m3 files
 ** "MPQ Editor":http://www.zezula.net/en/mpq/download.html - MPQ导出工具
 ** "M3 Plugin for 3DMAX":http://www.sc2mapster.com/assets/m3-export-plugin-3ds-max/
