@@ -96,6 +96,11 @@ h3(#tools). Tools
 * **音乐编辑**
 ** "GarageBand":http://itunes.apple.com/cn/app/garageband/id408980954?l=en&mt=12/
 ** "Steinberg Nuendo":http://lorenzofox3.github.io/smart-table-website/
+* **模型**
+** "blendm3":https://github.com/stante/blendm3 - Blender add-on to import Blizzard .m3 files
+** "MPQ Editor":http://www.zezula.net/en/mpq/download.html - MPQ导出工具
+** "M3 Plugin for 3DMAX":http://www.sc2mapster.com/assets/m3-export-plugin-3ds-max/
+** "WoW Model Viewer":https://wowmodelviewer.atlassian.net/wiki/display/WMV/Download+WoW+Model+Viewer
 * **其他**
 ** "DrawScript":http://drawscri.pt/ - 根据矢量图生成各语言代码
 ** "shoebox":http://renderhjs.net/shoebox/ - 一款游戏开发资源整理工具，支持目前大多数主流游戏框架
