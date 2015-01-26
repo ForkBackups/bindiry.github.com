@@ -6,7 +6,6 @@ title: Python
 h1. Python
 
 <div id="charpter">
-h3. Contents`
 * "Tools":#tools
 * "Web Framework":#web_framework
 * "App":#app

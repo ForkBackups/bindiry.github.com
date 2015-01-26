@@ -148,3 +148,5 @@ h3(#source_code). Source Code
 h3(#references). References
 * "Game Programming Patterns":http://gameprogrammingpatterns.com/introduction.html - 游戏开发设计模式，EA 游戏编程师八年经验总结
 * "百万用户排名的设计想法":https://github.com/thomashuang/Nagi/blob/master/design_cn.rst
+* "Learning Modern 3D Graphics Programming":http://www.arcsynthesis.org/gltut/
+* "Sprite Kit Tutorials":http://www.sprite-kit.com/tutorials/
