@@ -6,7 +6,6 @@ title: Windows - Software
 h1. Windows
 
 <div id="charpter">
-h3. Contents
 * "实用工具":#misc
 * "网络":#network
 * "开发":#develop

@@ -4,7 +4,6 @@ title: Game Development
 ---
 
 <div id="charpter">
-h3. Contents
 * "Engine":#engine
 * "Stuff":#stuff
 ** "Music & SFX":#music_sfx

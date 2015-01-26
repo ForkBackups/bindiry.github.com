@@ -4,7 +4,6 @@ title: OS X - Software
 ---
 
 <div id="charpter">
-h3. Contents
 * "媒体":#entertainment
 * "网络":#network
 * "开发":#development

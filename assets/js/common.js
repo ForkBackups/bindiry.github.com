@@ -20,7 +20,7 @@
 
 	  jQuery('ul.sf-menu').superfish();
 
-	  jQuery('div#charpter').scrollToFixed();
+	  jQuery('div#charpter').scrollToFixed({ marginTop: 10 });
 	});
 })(jQuery);
 

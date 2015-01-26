@@ -4,7 +4,6 @@ title: Ruby
 ---
 
 <div id="charpter">
-h3. Contents
 * "Web Site":#website
 * "Tools":#tools
 * "Web Framework":#webframework
