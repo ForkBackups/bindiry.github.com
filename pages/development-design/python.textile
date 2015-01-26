@@ -3,8 +3,6 @@ layout: default
 title: Python
 ---
 
-h1. Python
-
 <div id="charpter">
 * "Tools":#tools
 * "Web Framework":#web_framework
@@ -15,6 +13,8 @@ h1. Python
 * "References":#references
 * "Books":#books
 </div>
+
+h1. Python
 
 h3(#tools). Tools
 * "PyCharm":http://www.jetbrains.com/pycharm/ - 来自JetBrains的强大的IDE
