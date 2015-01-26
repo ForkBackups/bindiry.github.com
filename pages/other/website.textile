@@ -118,6 +118,7 @@ h3. 网络应用
 ** "Survey Monkey":https://www.surveymonkey.com/ - 在线自定义网络调查服务
 ** "麦客":http://www.mikecrm.com/ - 自定义信息收集平台
 ** "问卷网":http://www.wenjuan.com/ - 自建表单信息收集平台
+** "typeform":http://typeform.com - 新的问卷调查服务站
 * *工具类*
 ** "Online Audio Cutter":http://cut-mp3.com/ - 在线分割mp3
 ** "httpbin":http://httpbin.org/ - 提供简单的 API，来根据 URL 返回相关信息

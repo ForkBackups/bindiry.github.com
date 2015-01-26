@@ -41,6 +41,7 @@ h3. CDN
 * "CloudFlare":https://www.cloudflare.com/ - 流量免费的CDN，还有防火墙、统计等功能
 
 h3. Hosting Control System
+* "ajenti":http://ajenti.org/  - 开源基于 web 的主机管理系统
 * "vpsmate":http://www.vpsmate.org/ - 一款国人开发的高质量vps在线管理系统
 * "LuManager":http://www.zijidelu.org/forum.php
 * "Virtualmin":http://www.virtualmin.com - 开源虚拟主机管理系统
