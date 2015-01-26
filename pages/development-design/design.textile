@@ -15,6 +15,7 @@ h3. Photoshop
 
 h3. Website
 * "Adobe Kuler":https://kuler.adobe.com/ - Adobe 官方推出的调色工具
+* "Awesome Sketch":https://github.com/CharzLuo/Awesome-Sketch
 
 h3. Tools
 * "Processing":https://www.processing.org/ - 一款开源编程语言，专门为电子艺术和视觉交互设计而创建

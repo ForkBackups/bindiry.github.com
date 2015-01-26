@@ -28,13 +28,6 @@ h3. 开发
 ** "Google App Engine":https://appengine.google.com/
 ** "Heroku":http://www.heroku.com/ - 类似Google App Engine的网络应用托管平台，支持Ruby和Python
 
-* *在线IDE*
-** "compilr":http://compilr.com - 支持语言众多
-** "CoderBuddy":http://coderbuddy1.appspot.com - 可以在线创建、编辑、发布google app engine应用的网站
-** "Cloud9 IDE":https://c9.io/ - 在线云IDE支持 Github 和 BitBucket
-** "Nitrous.io":https://www.nitrous.io
-** "COdenvy":https://codenvy.com/
-
 * *资料相关*
 ** "StackParts":http://stackparts.com/ - web开发技术百科
 ** "Sourcegraph":https://sourcegraph.com - 强大的代码搜索网站
@@ -99,8 +92,6 @@ h3. 网络应用
 * *服务类*
 ** "Disqus":http://disqus.com/ - 提供支持社交媒体的评论功能托管
 ** "友言":http://uyan.cc/ - 国内版的Disqus
-** "评论啦":http://pinglun.la/
-** "无觅相关文章":http://www.wumii.com/widget/relatedItems - 一款相关文章插件
 ** "tinyletter":http://tinyletter.com - 提供简洁实用的邮件列表服务
 ** "mailchimp":http://mailchimp.com - 同上
 ** "IFTTT":https://ifttt.com/ - 基于条件出发任务的网站
@@ -147,3 +138,14 @@ h3. 娱乐
 ** "GET WORK DONE MUSIC":http://www.getworkdonemusic.com/
 ** "jamiroquai-radenko":https://soundcloud.com/radenko-zec/sets/jamiroquai-radenko
 ** "MusicForConcentration":http://www.reddit.com/r/MusicForConcentration/
+
+h3. 壁纸站
+* "alphacoders":http://wall.alphacoders.com/
+* "Desktoppr":http://facets.lahttp://desktoppr.co/
+* "InterfaceLife":https://interfacelift.com/
+* "kuvva":https://www.kuvva.com/
+* "NicePic":http://nicepic.org/
+* "SimpleDesktops":http://simpledesktops.com/
+* "Unsplash":https://unsplash.com/
+* "WallHaven":http://alpha.wallhaven.cc/
+* "WallpapersWide":http://wallpaperswide.com/

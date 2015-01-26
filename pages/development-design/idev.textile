@@ -6,7 +6,6 @@ title: iDev
 h1. iDev
 
 h3. Utility Tools
-
 * "Objective-C Runtime Bowser":https://github.com/nst/RuntimeBrowser
 * "F-Script":http://www.fscript.org/
 * "AppleDoc":http://gentlebytes.com/appledoc/ - API文档生成器
@@ -85,7 +84,6 @@ h3. Library
 * "peertalk":https://github.com/rsms/peertalk - 实现iOS和OSX设备间通过数据线进行通信的库
 
 h3. Framewok
-
 * "ReactiveCocoa":https://github.com/ReactiveCocoa/ReactiveCocoa - 由 Github 开源的应用于 iOS 和 OS X 开发的框架具有函数式和响应式编程的特性
 * "Mantle":https://github.com/Mantle/Mantle - Model framework for Cocoa and Cocoa Touch
 * *Network*
@@ -100,7 +98,6 @@ h3. Framewok
 ** "Bee-Framework":http://www.Bee-Framework.com - 使用 html 和 css 来对 iOS 程序进行原生排版辅助的框架
 
 h3. WebSite
-
 * "Code4App":http://code4app.com/ - 移动平台代码库
 * "iOS-WIKI":http://www.ios-wiki.com/
 * "Cocoa Controls":http://www.cocoacontrols.com/ - 针对Cocoa的代码库
@@ -114,7 +111,6 @@ h3. WebSite
 * "Ray Wenderlich":http://www.raywenderlich.com - 很强大的国外教程站
 
 h3. UI设计相关网站
-
 * "iOS Inspires Me":http://iosinspires.me/
 * "UI4APP":http://ui4app.com/
 * "mokk":http://www.mokk.me/e - 在 Web 上 做出 ios UI 应用界面，并生成 URL 分享给他人
@@ -152,12 +148,10 @@ h3. UI设计相关网站
 ** "iOS5字体集合（包括iPhone和iPad）":http://iosfonts.com/
 
 h3. Tools
-
 * "Google Analytics for Mobile 统计解决方案":http://code.google.com/mobile/analytics/
 * "Project Statistics for Xcode":https://itunes.apple.com/cn/app/project-statistics-for-xcode/id650764572 - xcode 项目分析软件，统计项目详细信息
 
 h3. Open Source Projects
-
 * *Mac OS X*
 ** "GoAgentX":https://github.com/ohdarling/GoAgentX
 
@@ -174,11 +168,9 @@ h3. Open Source Projects
 ** "美剧英语每日一句":https://github.com/imtiger/HappyEnglish
 
 h3. API
-
 * "Google Reader API":http://code.google.com/p/r2-release/wiki/GoogleReaderApi
 
 h3. References
-
 * "苹果官方Objective-C编码规范":http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html
 * "objc.io":http://www.objc.io/
 * "objccn.io":http://objccn.io/
@@ -208,7 +200,6 @@ h3. References
 ** "XCode Sample Project":http://www.appdesignvault.com/downloads/FoodySampleProject.zip
 
 h3. Website
-
 * "Flurry":http://www.flurry.com/ - App数据分析服务平台， "介绍文章":http://blog.devtang.com/blog/2013/10/24/use-flurry-to-analyse-data/
 * "App Viz":http://www.ideaswarm.com/AppViz2.html - App销售追踪统计软件
 * "App Sales":https://github.com/omz/AppSales-Mobile - 开源的第三方的APP销售统计工具
@@ -219,64 +210,11 @@ h3. Website
 * "MacCocoa":http://maccocoa.com/ - OSX 开发社区
 * "Avatars":http://avatars.io/ - App图标生成网站
 * "TestFight":https://testflightapp.com/ - 好用的应用测试平台
+* "中文 iOS/Mac 开发博客列表":https://github.com/tangqiaoboy/iOSBlogCN
 
 h4. Github
-
 * "Applidium":http://applidium.github.io
 * "Ciechan":https://github.com/Ciechan
 * "Ali Karagoz":https://github.com/alikaragoz
 * "Jesse Andersen":https://github.com/gotosleep
 * "Florent Pillet":https://github.com/fpillet
-
-h4. Blog
-
-* "Allen":http://www.imallen.com
-* "Cocoabit":http://blog.cocoabit.com
-* "Cocoanetics":http://www.cocoanetics.com/blog/
-* "Dingtianran":http://dingtianran.com/
-* "Esoft":http://esoftmobile.com/
-* "i沙漏":http://ishalou.com/
-* "KEVIN BLOG":http://imkevin.me
-* "Lancy":http://gracelancy.com
-* "Lex":http://ios.lextang.com
-* "Matt Galloway":http://www.galloway.me.uk/
-* "Nico":http://www.taofengping.com
-* "nixzhu on scriptogr.am":http://nixzhu.me
-* "NSHipster":http://nshipster.cn
-* "RayWenderlich":http://www.raywenderlich.com/
-* "Ted":http://wufawei.com/
-* "Travis":http://imi.im/
-* "TualatriX":http://imtx.me
-* "txx":http://blog.t-xx.me
-* "vclwei":http://vclwei.com
-* "webfrogs":http://webfrogs.me
-* "Wonderffee":http://wonderffee.github.io
-* "Xcode Dev":http://xcodev.com/
-* "乔学士":http://joeyio.com/
-* "代码手工艺人":http://joeyio.com
-* "余书懿":http://blog.csdn.net/ysy441088327/
-* "卢克":http://geeklu.com/
-* "唐巧":http://blog.devtang.com/
-* "念茜":http://blog.csdn.net/yiyaaixuexi/rss/list
-* "摇滚诗人":http://cnblogs.com/biosli|
-* "无网不剩":http://blog.leezhong.com/
-* "无网不剩Limboy":http://blog.leezhong.com/
-* "王巍onevcat":http://onevcat.com/
-* "王轲":http://www.iwangke.me/
-* "破船之家":http://beyondvincent.com/
-* "耿健桓":http://dlog.dismory.com/
-* "萧宸宇":http://iiiyu.com/
-* "蓝晨钰":http://gracelancy.com/
-* "言无不尽":http://tang3w.com
-* "许小帅":http://imallen.com/
-* "连栩":http://lianxu.me/
-* "阿峰":http://hufeng825.github.io
-* "阿毛":http://xiangwangfeng.com
-* "陈咏聪":http://vinqon.com/
-* "陶丰平":http://www.taofengping.com/
-* "骆仕恺":http://luosky.com/
-* "高嘉峻":http://jiajun.org/
-
-h4. Mac App 开发者网站
-
-| "TANHAO":http://www.tanhao.org/ | "beyondcow":http://beyondcow.com/ |

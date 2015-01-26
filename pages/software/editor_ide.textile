@@ -188,6 +188,11 @@ h3. Other
 h1(#webide). Web IDE
 * "CodeBox":https://www.codebox.io/
 * "Koding":https://koding.com
+* "compilr":http://compilr.com - 支持语言众多
+* "CoderBuddy":http://coderbuddy1.appspot.com - 可以在线创建、编辑、发布google app engine应用的网站
+* "Cloud9 IDE":https://c9.io/ - 在线云IDE支持 Github 和 BitBucket
+* "Nitrous.io":https://www.nitrous.io
+* "Codenvy":https://codenvy.com/
 
 h1(#osx). OSX相关
 * "Atom":https://atom.io/ - Github 推出的一款开源编辑器
@@ -230,4 +235,8 @@ h1(#fonts). Code Fonts
 * "Meslo":https://github.com/andreberg/Meslo-Font - 在不支持调整行高的编辑器下用这款字体很合适
 * "Adobe Source Code Pro":http://sourceforge.net/projects/sourcecodepro.adobe/ - adobe 推出的代码字体
 * "Source Sans Pro":http://sourceforge.net/projects/sourcesans.adobe/ - 同上
+* "Input":http://input.fontbureau.com/
+* "PT Mono":http://www.google.com/fonts/specimen/PT+Mono
+* "Anonymous Pro":http://www.marksimonson.com/fonts/view/anonymous-pro
+* "Pragmata Pro":http://www.fsd.it/fonts/pragmatapro.htm
 * "M+ Fonts":http://mplus-fonts.sourceforge.jp/

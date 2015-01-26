@@ -1,0 +1,61 @@
+/*** ESSENTIAL STYLES ***/
+.sf-menu { 
+	width: 100%;
+	padding: 10px 0;
+	margin: 10px 0;
+	background: #444;
+}
+.sf-menu, .sf-menu * {
+	list-style: none;
+}
+.sf-menu li {
+	position: relative;
+	white-space: nowrap; /* no need for Supersubs plugin */
+	*white-space: normal; /* ...unless you support IE7 (let it wrap) */
+}
+.sf-menu ul {
+	position: absolute;
+	display: none;
+	top: 100%;
+	left: 0;
+	z-index: 99;
+	min-width: 12em; /* allow long menu items to determine submenu width */
+	*width: 12em; /* no auto sub width for IE7, see white-space comment below */
+}
+.sf-menu > li {
+	float: left;
+	color: #fff;
+	margin-left: 20px;
+}
+.sf-menu > li > ul {
+	background: #444;
+	padding-left: 0;
+	padding: 15px 5px;
+}
+.sf-menu li:hover > ul,
+.sf-menu li.sfHover > ul {
+	display: block;
+}
+
+.sf-menu a {
+	display: block;
+	position: relative;
+	padding: 3px 10px;
+	text-decoration: none;
+	zoom: 1; /* IE7 */
+	color: #fff;
+}
+
+.sf-menu a:hover {
+	color: #ccc;
+}
+.sf-menu ul ul {
+	top: 0;
+	left: 100%;
+}
+
+/*** DEMO SKIN ***/
+.sf-menu {
+	float: left;
+	margin-bottom: 1em;
+}

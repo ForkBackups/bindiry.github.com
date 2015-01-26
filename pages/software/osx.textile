@@ -68,7 +68,6 @@ h3(#entertainment). 媒体
 ** "texts":http://www.texts.io/  - 将markdown文件转换为pdf、epub等格式
 
 h3(#network). 网络
-
 * *下载上传*
 ** "Transmit":http://www.panic.com/transmit/ - FTP客户端软件
 ** "Dropbox":http://www.dropbox.com - 文件同步工具
@@ -91,17 +90,15 @@ h3(#network). 网络
 ** "speedlimit":http://mschrag.github.io/ - 网络限速软件
 
 h3(#development). 开发
-
 * "Editor/IDE":http://wiki.junnan.org/pages/software/editor_ide.html#osx
 * "Vagrant":http://www.vagrantup.com/ - 一款基于ruby的跨平台虚拟开发环境部署软件，非常实用
-
 * "Hypernap":http://gethypernap.com/ - 网站 API 测试工具
 
 * *(#version)版本管理*
 ** "SourceTree":http://www.sourcetreeapp.com/ - 同时支持Git、Mercurial的客户端
 ** *(#svn)SVN*
-*** "Versions":http://versionsapp.com/ - SVN客户端
 *** "Cornerstone":http://www.zennaware.com/cornerstone/index.php - SVN客户端
+*** "Versions":http://versionsapp.com/ - SVN客户端
 ** *(#git)Git*
 *** "Tower":http://www.git-tower.com/
 *** "Github":http://mac.github.com - 免费的github官方客户端
@@ -135,7 +132,6 @@ h3(#development). 开发
 ** "VirtualHostX":http://clickontyler.com/virtualhostx/ - 内置Apache ，MAMP,XAMPP,ZEND S CE四种环境的Web Server
 
 h3(#design). 设计
-
 * *(#design-web)网页*
 ** "SpriteRight":http://itunes.apple.com/us/app/spriteright/id488584662?mt=12 - CSS必备工具
 ** "Espresso":http://macrabbit.com/espresso/ - Web编程利器
@@ -176,7 +172,6 @@ h3(#design). 设计
 ** "yoios":https://github.com/mmarfil/yoios
 
 h3(#productivity). 效率
-
 * "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件
 * "OmniFocus":https://www.omnigroup.com/omnifocus - 强大的 GTD 软件
 * "BusyCal":http://www.busymac.com/ - 强大的日程管理软件
@@ -188,7 +183,6 @@ h3(#productivity). 效率
 * "Macdown":http://macdown.uranusjr.com/
 
 h3(#system). 系统工具
-
 * "ForkLift":http://www.binarynights.com/forklift/ - 强大的文件管理器
 * "XtraFinder":http://www.trankynam.com/xtrafinder/ - 文件管理器，免费的TotalFinder替代软件
 * "Homebrew":http://brew.sh/ - 软件包管理工具
@@ -218,7 +212,6 @@ h3(#system). 系统工具
 * "Liteicon":http://www.freemacsoft.net/liteicon/ - 安全的替换图标
 
 h3(#other). 其他
-
 * "常用快捷键":/assets/2013/07/shortcut_key.jpg
 * "Entropy":http://www.eigenlogik.com/entropy/ - 压缩解压缩软件
 * "Renamer":http://renamer.com/ - 批量命名利器
@@ -227,6 +220,7 @@ h3(#other). 其他
 * "Name Mangler":http://manytricks.com/namemangler/ - 同上
 * "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大
 * "hydra":https://github.com/sdegutis/hydra - 一款轻量级的窗口管理器，可用脚本实现更多功能
+* "Noizio":https://itunes.apple.com/us/app/noizio/id928871589?mt=12 - 白嗓音应用
 
 h3(#website). 相关网站
 

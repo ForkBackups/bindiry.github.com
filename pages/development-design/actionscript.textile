@@ -4,7 +4,6 @@ title: ActionScript
 ---
 
 <div id="charpter">
-h3. Contents
 * "Utility Class":#utility_class
 ** "Tweener":#tweener
 ** "Audio":#audio
