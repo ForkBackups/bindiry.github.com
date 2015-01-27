@@ -8,7 +8,7 @@ a:hover { color: #154376; text-decoration: underline; }
 ul, li { padding-top: 2px; padding-bottom: 2px; }
 h1 { padding-top: 0; margin-top: 0;}
 div#container {
-  width: 700px;
+  width: 800px;
   min-width: 500px;
   max-width: 700px;
   padding: 20px 0 20px 30px;
