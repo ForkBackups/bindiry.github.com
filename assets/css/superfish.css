@@ -1,9 +1,9 @@
 /*** ESSENTIAL STYLES ***/
 .sf-menu { 
 	width: 100%;
-	padding: 10px 0;
-	margin: 10px 0;
-	background: #444;
+	padding: 15px 0;
+	margin: 0;
+	border-bottom: 1px solid #eee;
 }
 .sf-menu, .sf-menu * {
 	list-style: none;
@@ -19,13 +19,13 @@
 	top: 100%;
 	left: 0;
 	z-index: 99;
-	min-width: 12em; /* allow long menu items to determine submenu width */
-	*width: 12em; /* no auto sub width for IE7, see white-space comment below */
+	min-width: 8em; /* allow long menu items to determine submenu width */
+	*width: 8em; /* no auto sub width for IE7, see white-space comment below */
 }
 .sf-menu > li {
 	float: left;
-	color: #fff;
-	margin-left: 20px;
+	color: #333;
+	font-size: 16px;
 }
 .sf-menu > li > ul {
 	background: #444;

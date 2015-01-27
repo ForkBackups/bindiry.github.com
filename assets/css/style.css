@@ -36,14 +36,10 @@ div#content h3.title {
 div#content div#charpter {
   font-size: 12px;
   padding: 5px 20px;
-/*  position: fixed;*/
   /* 用于不支持RGBa的浏览器 */
   background: rgb(0, 0, 0);
   /* RGBa, 透明度0.6 */
   background: rgba(0, 0, 0, 0.1);
-  /*top: 140px;*/
-  /*margin-left: 480px;*/
-  /*display: inline-block;*/
   float: right;
 }
 
