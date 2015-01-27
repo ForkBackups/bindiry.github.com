@@ -181,7 +181,7 @@ h3. 常用快捷键
 * *Control + Command + Y* : 继续运行
 
 h3. Other
-* "XCode快捷键图示":/uploads/xcode.jpg
+* "XCode快捷键图示":/wiki/uploads/xcode.jpg
 * "xcode-themes":https://github.com/tursunovic/xcode-themes
 
 h1(#webide). Web IDE
