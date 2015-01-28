@@ -34,6 +34,7 @@ h3. RPG Kit
 h3. Tools
 * "disunity":https://github.com/ata4/disunity/ - An experimental toolset for Unity asset and asset bundle files.
 * "ExtractUnityPackage":http://www.convertzone.com/extract_unitypackage/ - 不用安装 Unity 即可解开 UnityPackage 包的工具
+* "Daggerfall Tools for Unity":http://www.dfworkshop.net/
 
 h3. Website
 * "Unity圣典":http://game.ceeger.com/
@@ -42,6 +43,7 @@ h3. Website
 
 h3. Video Lessons
 * "Quill18's Unity 3d & Blender Game Programming Tutorials":http://quill18.com/unity_tutorials/
+* "Unity Cookie":http://cgcookie.com/unity/
 
 h3. References
 * "官方中文手册":http://edu.china.unity3d.com/learning_document
