@@ -124,6 +124,7 @@ h3(#development). 开发
 ** "Visual Paradigm":http://www.visual-paradigm.com/ - 划平台的 UML 建模和 CASE 工具
 ** "ArgoUML":http://argouml.tigris.org/
 ** "CodeRunner":http://krillapps.com/coderunner/ - 代码片段测试工具
+** "PaintCode":http://www.paintcodeapp.com/ - 将矢量图转化为 Objective-C 代码
 
 * *(#server)服务器软件*
 ** "XAMPP for Mac":http://www.apachefriends.org/en/xampp-macosx.html - 方便搭建MAMP环境
