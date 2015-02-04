@@ -13,6 +13,7 @@ h3. Packages
 * "awesome-go":https://github.com/avelino/awesome-go - 另一个 Go 相关索引
 * "第三方库索引":https://code.google.com/p/go-wiki/wiki/Projects
 * "gom":https://github.com/mattn/gom - 包管理
+* "link":https://github.com/funny/link - 简易的Go语言网络库，它专注于解决基于消息包的长连接通讯需求
 
 h3. Framework
 * "beego":http://beego.me/ - 除了基础的 MVC 结构外，还带有Cache，ORM，Session等多个库的支持

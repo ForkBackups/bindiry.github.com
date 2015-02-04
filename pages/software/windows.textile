@@ -18,7 +18,7 @@ title: Windows - Software
 h1. Windows
 
 h3(#misc). 实用工具
-
+* "Find and Run Robot":http://www.donationcoder.com/Software/Mouser/findrun/ - 快速启动软件
 * "QQ五笔":http://wubi.qq.com/ - 从极点中文转过来后一直使用到现在
 * "7zip":http://www.7-zip.org/ - 开源免费的压缩软件
 * "Bandzip":http://www.bandisoft.com/bandizip/ - 基于7zip的压缩软件，加入了实用功能

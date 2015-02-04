@@ -44,6 +44,8 @@ h3. Website
 h3. Video Lessons
 * "Quill18's Unity 3d & Blender Game Programming Tutorials":http://quill18.com/unity_tutorials/
 * "Unity Cookie":http://cgcookie.com/unity/
+* "WalkerBoy Studio":http://walkerboystudio.com/
+* "gamer to game developer":http://www.gamertogamedeveloper.com/
 
 h3. References
 * "官方中文手册":http://edu.china.unity3d.com/learning_document
