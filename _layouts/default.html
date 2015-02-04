@@ -20,6 +20,11 @@
 		<script type="text/javascript" src="/wiki/assets/js/jquery.ui.totop.js"></script>
 		<script type="text/javascript" src="/wiki/assets/js/jquery-scrolltofixed-min.js"></script>
 		<script type="text/javascript" src="/wiki/assets/js/common.js"></script>
+		<script type="text/javascript">
+		if (window.location.href.indexOf('http://wiki.junnan.org') === 0) {
+		  window.location.href = 'http://junnan.org/wiki{{ page.url }}';
+		}
+		</script>
 	</head>
 
 	<body>
