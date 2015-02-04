@@ -3,9 +3,23 @@ layout: default
 title: Linux
 ---
 
+<div id="charpter">
+* "发行版":#distribution
+* "桌面环境":#desktop
+* "窗口管理":#window_manage
+* "系统":#system
+* "网络":#network
+* "娱乐":#entertainment
+* "开发":#develop
+* "服务器":#server
+* "其他":#other
+* "参考":#references
+* "相关网站":#website
+</div>
+
 h1. {{ page.title }}
 
-h3. 发行版
+h3(#distribution). 发行版
 * "Arch Linux":http://archlinux.org
 * "CentOS":http://centos.org
 * "CoreOS":https://coreos.com/
@@ -16,21 +30,16 @@ h3. 发行版
 * "slackware":http://www.slackware.com/
 * "Ubuntu":http://www.ubuntu.com
 
-h3. 桌面环境
+h3(#desktop). 桌面环境
 * "Gnome":http://www.gnome.org/
 * "KDE":http://www.kde.org/
 * "Xface":http://www.xfce.org/
 * "LXDE":http://lxde.org/
 
-h3. 窗口管理
+h3(#window_manage). 窗口管理
 * "musca":http://aerosuidae.net/musca.html
 * "awesome":http://awesome.naquadah.org/
 * "tmux":http://tmux.sourceforge.net/
-
-h3(#misc). 常用
-* "NeverNote":http://nevernote.sourceforge.net/ - linux下的evernote客户端
-* "Audacity":http://audacity.sourceforge.net - 音频编辑软件
-* "Double Commander":http://doublecmd.sourceforge.net/ - 跨平台的文件管理器
 
 h3(#system). 系统
 * "ubuntu-tweak":http://ubuntu-tweak.com/
@@ -59,9 +68,6 @@ h3(#server). 服务器
 * "LNMP":http://lnmp.org/ - centos/redhat、debian/ubuntu下(Nginx、MySQL、PHP、phpMyAdmin)生产环境部署脚本
 * "Submin":http://supermind.nl/submin/index.html - 一款 SVN Web 管理工具
 * "Supervisor":http://supervisord.org/ - 用于 Unix 系统的进程监控工具
-
-h3(#theme). 主题
-* "Polar Night":https://github.com/baurigae/polar-night
 
 h3(#other). 其他
 * "virtualbox":http://download.virtualbox.org/virtualbox - 虚拟机
