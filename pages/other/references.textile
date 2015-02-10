@@ -28,3 +28,4 @@ h3. Other
 * "Markdown语法说明-简体中文版":http://wowubuntu.com/markdown/
 * "程序员能力矩阵":http://static.icybear.net/%5BCN%5DProgrammer%20competency%20matrix.htm
 * "Awesome Remote Job":https://github.com/lukasz-madon/awesome-remote-job
+* "The Linux Command Line 中文版":http://billie66.github.io/TLCL/index.html
