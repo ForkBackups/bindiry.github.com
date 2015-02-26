@@ -24,6 +24,7 @@ h3. Assets
 * "PoolManager":http://poolmanager.path-o-logical.com/ - 对象池管理
 * "Rain":http://rivaltheory.com/rain/ - 行为树插件[wiki](http://rivaltheory.com/wiki/doku.php?id=gettingstarted:start)
 * "FCC - Free Character Controller":http://ruhrnuklear.de/fcc/ 一套免费的人物和镜头控制类，类似 WOW 
+* "Loading Effects and Magnifying Effect":https://www.assetstore.unity3d.com/en/#!/content/27949 - 过场效果
 
 h3. RPG Kit
 * "ZERANO RPG KIT":http://zerano-unity3d.com/RPGKit/rpg-kit-2-0/

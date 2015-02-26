@@ -158,6 +158,7 @@ h3(#packages). Packages & Utility Class
 ** "Python Dialog":http://pythondialog.sourceforge.net/ - 一款对话框库
 ** "Python RQ":http://python-rq.org/ - 一款处理队列服务库
 *** "rq-dashboard":https://github.com/nvie/rq-dashboard
+** "scrapy":http://scrapy.org/ - 网络爬虫框架
 
 h3(#other). Other
 * "bpython":http://bpython-interpreter.org/ - 支持语法高亮的控制台
