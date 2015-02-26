@@ -80,7 +80,8 @@ h3. Deploy Tools
 h3. Monitoring
 * "Scout":https://scoutapp.com/ - 一款服务器监控软件
 * "DataDog":https://www.datadoghq.com/ - 服务器监控服务
-* "Sentry":https://github.com/getsentry/sentry - 一款实时错误日志捕获平台，支持大多语言环境
+* "Sentry":https://github.com/getsentry/sentry - 实时错误日志捕获平台，支持大多语言环境
+* "skylight":https://www.skylight.io/ - 免费套餐适合小网站的监控服务
 
 h3. Test Tools
 * "gatling":http://gatling.io/ - 压力测试工具

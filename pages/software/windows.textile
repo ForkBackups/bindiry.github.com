@@ -124,3 +124,4 @@ h3(#other). 其他
 * "Synergy":http://synergy-foss.org/ - 实现一套鼠标控制局域网内的多台电脑，跨平台软件
 * "ResEdit":http://www.resedit.net - 程序资源编辑器
 * "Carnac":http://code52.org/carnac/ - 可以实现在屏幕上显示按键的操作，适合在录制屏幕操作视频时使用
+* "Piriform Speccy":https://www.piriform.com/speccy - 小巧实用的系统硬件信息查看工具

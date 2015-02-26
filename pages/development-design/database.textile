@@ -65,6 +65,7 @@ h3. Tools
 ** "MongoVUE":http://www.mongovue.com/ - 基于.Net的MongoDB windows管理工具
 ** "Genghis":http://genghisapp.com/ - 基于Ruby的Web管理工具
 ** "RozorSQL":http://www.razorsql.com/ - 一款划平台的数据库管理工具，支持众多数据库
+* "Grafana":http://grafana.org/ - 一套开源监控系统
 
 h3. References
 * "Postgres指南":http://pgguide.lxneng.com/
