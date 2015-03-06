@@ -181,6 +181,7 @@ h3(#productivity). 效率
 * "Apple Configurator":https://itunes.apple.com/us/app/id434433123?mt=12 - 一款苹果官方推出的方便批量部署ios设备的软件
 * "Time out free":https://itunes.apple.com/us/app/time-out-free/id402592703?mt=12 - 一款提醒定时休息的应用
 * "Macdown":http://macdown.uranusjr.com/
+* "GhostNote":http://www.ghostnoteapp.com/ - 可以与任意文件或应用绑定的便签应用
 
 h3(#system). 系统工具
 * "ForkLift":http://www.binarynights.com/forklift/ - 强大的文件管理器

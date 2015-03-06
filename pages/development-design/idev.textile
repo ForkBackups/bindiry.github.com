@@ -83,6 +83,8 @@ h3. Library
 * "Alamofire":https://github.com/Alamofire/Alamofire - an HTTP networking library written in Swift
 * "peertalk":https://github.com/rsms/peertalk - 实现iOS和OSX设备间通过数据线进行通信的库
 * "Atlas-iOS":https://github.com/layerhq/Atlas-iOS - 聊天应用界面库
+* **Swift**
+** "SwiftyJSON":https://github.com/SwiftyJSON/SwiftyJSON - The better way to deal with JSON data in Swift
 
 h3. Framewok
 * "ReactiveCocoa":https://github.com/ReactiveCocoa/ReactiveCocoa - 由 Github 开源的应用于 iOS 和 OS X 开发的框架具有函数式和响应式编程的特性

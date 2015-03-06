@@ -38,6 +38,7 @@ h3. 开发
 
 * *其他*
 ** "gitignore.io":http://www.gitignore.io/ - 生成 gitignore 文件
+** "leetcode":http://leetcode.com/ - 经典算法面试题站
 
 h3. 设计
 

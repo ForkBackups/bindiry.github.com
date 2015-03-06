@@ -23,6 +23,7 @@ h3. 通讯相关
 * "sofa-pbrpc":https://github.com/BaiduPS/sofa-pbrpc - 百度出品的 RPC 库
 * "Thrift":http://thrift.apache.org/ - 一款跨语言部署框架，通过一个中间语言（IDL，接口定义语言）来定义RPC的接口和数据类型。
 * "ZeroRPC":http://zerorpc.dotcloud.com/
+* "grpc":http://www.grpc.io/ - A high performance, open source, general RPC framework that puts mobile and HTTP/2 first.
 
 h3. 网络相关
 * "shadowsocks":http://shadowsocks.org/
@@ -41,6 +42,9 @@ h3. 数据相关
 h3. 媒体相关
 * "Mozilla JPEG encoder":https://github.com/mozilla/mozjpeg
 * "pngquant":http://pngquant.org/
+
+h3. 企业相关
+* "odoo":https://github.com/odoo/odoo - 企业ERP系统
 
 h3. 其他
 * "FastDFS":http://code.google.com/p/fastdfs/ - 一款高性能分布式文件系统
