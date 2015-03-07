@@ -150,3 +150,4 @@ h3. 壁纸站
 * "Unsplash":https://unsplash.com/
 * "WallHaven":http://alpha.wallhaven.cc/
 * "WallpapersWide":http://wallpaperswide.com/
+* "Beautiful Pictures":http://www.picsfor.us/
