@@ -1,0 +1,11 @@
+---
+layout: default
+title: Photo
+---
+
+h1. 照片相关
+
+h3. Lightroom相关
+* "VSCO":http://vsco.co/film
+* "SLR Presets":http://www.slrlounge.com/store-product/lightroom-presets/
+* "thefader":http://www.capturemonkey.com/thefader-r899 - 设整预设效果强度
