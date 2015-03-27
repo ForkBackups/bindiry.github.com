@@ -36,6 +36,8 @@ h3. Tools
 * "disunity":https://github.com/ata4/disunity/ - An experimental toolset for Unity asset and asset bundle files.
 * "ExtractUnityPackage":http://www.convertzone.com/extract_unitypackage/ - 不用安装 Unity 即可解开 UnityPackage 包的工具
 * "Daggerfall Tools for Unity":http://www.dfworkshop.net/
+* "Unity3d Obfuscator":http://en.unity3d.netobf.com/ - Unity3D 反编译工具
+* "Red Gate .NET Reflector":http://www.red-gate.com/products/dotnet-development/reflector/ - C# Dll反编译工具
 
 h3. Website
 * "Unity圣典":http://game.ceeger.com/
