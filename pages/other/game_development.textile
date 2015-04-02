@@ -153,3 +153,4 @@ h3(#references). References
 * "百万用户排名的设计想法":https://github.com/thomashuang/Nagi/blob/master/design_cn.rst
 * "Learning Modern 3D Graphics Programming":http://www.arcsynthesis.org/gltut/
 * "Sprite Kit Tutorials":http://www.sprite-kit.com/tutorials/
+* "浅谈格斗游戏的精髓——方块的战争":http://www.g-cores.com/articles/14993
