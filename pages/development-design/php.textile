@@ -113,3 +113,4 @@ h3. Software
 
 h3. Website
 * "phpfresher":http://www.phpfresher.com/
+* "phppub":https://phphub.org - PHP & Laravel 开发者社区
