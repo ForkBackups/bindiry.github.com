@@ -24,6 +24,7 @@ h3. VPS
 * "prgmr":http://prgmr.com
 * "Ramhost":http://www.ramhost.us/?page=vps/linux-openvz-atlanta-east
 * "ServInt":http://www.servint.net/
+* "vultr":https://www.vultr.com
 * "后路哥的VPS":http://houluge.com/taiwan-vps
 * 无限流量
 ** "Lowendbox":http://www.lowendbox.com/
