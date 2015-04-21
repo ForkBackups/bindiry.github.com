@@ -116,6 +116,7 @@ h3. 网络应用
 ** "httpbin":http://httpbin.org/ - 提供简单的 API，来根据 URL 返回相关信息
 ** "RunScope":https://www.runscope.com/ - 调试和测试API
 ** "Google Fonts 在线转换":http://everythingfonts.com/font-face
+** "smallpdf":http://smallpdf.com/ - pdf转换网站
 * *网站服务相关*
 ** "百度云加速":http://yunjiasu.baidu.com/
 ** "安全宝":http://www.anquanbao.com/
