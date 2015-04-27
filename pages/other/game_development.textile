@@ -29,6 +29,7 @@ h3(#engine). Engine
 * "stencyl":http://www.stencyl.com/ - 傻瓜游戏制作工具
 * "Unity3D":http://unity3d.com/ - 跨平台综合型游戏开发引擎
 * "Paradox3D":http://paradox3d.net/ - Create cross-platform games in C#
+* "Spring":https://springrts.com/ - 跨平台的开源RTS游戏引擎
 
 h3(#library). Library
 * "lightpng":https://github.com/shibukawa/lightpng - 游戏图像压缩库
