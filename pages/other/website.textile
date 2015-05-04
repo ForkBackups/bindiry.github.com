@@ -117,6 +117,7 @@ h3. 网络应用
 ** "RunScope":https://www.runscope.com/ - 调试和测试API
 ** "Google Fonts 在线转换":http://everythingfonts.com/font-face
 ** "smallpdf":http://smallpdf.com/ - pdf转换网站
+** "ping.pe":http://ping.pe/ - 用世界各地服务器 ping 指定服务器，并显示结果
 * *网站服务相关*
 ** "百度云加速":http://yunjiasu.baidu.com/
 ** "安全宝":http://www.anquanbao.com/

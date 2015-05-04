@@ -1,0 +1,22 @@
+---
+layout: default
+title: Swift
+---
+
+h1. Swift
+
+h3. Library
+* "SwiftyJSON":https://github.com/SwiftyJSON/SwiftyJSON - The better way to deal with JSON data in Swift
+* "Alamofire":https://github.com/Alamofire/Alamofire - Elegant HTTP Networking in Swift
+
+h3. References
+* "Swift主流学习资源":https://github.com/ipader/SwiftGuide
+* "Swift Coder Weekly":http://swift-coder.info/
+* "Swift Dev Weekly":http://swiftdev.tips/
+* "Swift Development newsletter":http://swiftweekly.com/
+* "Swift官方电子书":https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11&ign-mpt=uo%3D8
+* "官方Swift翻译版":http://numbbbbb.gitbooks.io/-the-swift-programming-language-/
+* "CocoaChina的Swift教程资源":http://www.cocoachina.com/special/swift/
+
+h3. Books
+* "Cocoa Programming:For Mac OS X":https://www.bignerdranch.com/we-write/cocoa-programming/

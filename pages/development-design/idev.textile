@@ -83,8 +83,6 @@ h3. Library
 * "Alamofire":https://github.com/Alamofire/Alamofire - an HTTP networking library written in Swift
 * "peertalk":https://github.com/rsms/peertalk - 实现iOS和OSX设备间通过数据线进行通信的库
 * "Atlas-iOS":https://github.com/layerhq/Atlas-iOS - 聊天应用界面库
-* **Swift**
-** "SwiftyJSON":https://github.com/SwiftyJSON/SwiftyJSON - The better way to deal with JSON data in Swift
 
 h3. Framewok
 * "ReactiveCocoa":https://github.com/ReactiveCocoa/ReactiveCocoa - 由 Github 开源的应用于 iOS 和 OS X 开发的框架具有函数式和响应式编程的特性
@@ -189,14 +187,6 @@ h3. References
 ** "Introduction to Coding Guidelines for Cocoa":http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html
 * "iOS项目的目录结构和开发流程 - 无网不剩":http://blog.leezhong.com/ios/2013/09/23/build-ios-application.html
 * "NSScreencast":http://nsscreencast.com/ - iOS 开发视频教程站
-
-* *Swift*
-** "Swift Coder Weekly":http://swift-coder.info/
-** "Swift Dev Weekly":http://swiftdev.tips/
-** "Swift Development newsletter":http://swiftweekly.com/
-** "Swift官方电子书":https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11&ign-mpt=uo%3D8
-** "官方Swift翻译版":http://numbbbbb.gitbooks.io/-the-swift-programming-language-/
-** "CocoaChina的Swift教程资源":http://www.cocoachina.com/special/swift/
 
 * Learn to Create Successful Apps
 ** http://appdesignvault.s3.amazonaws.com/foody-tutorial/(001-010).mp4
