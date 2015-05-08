@@ -118,6 +118,7 @@ h3. 网络应用
 ** "Google Fonts 在线转换":http://everythingfonts.com/font-face
 ** "smallpdf":http://smallpdf.com/ - pdf转换网站
 ** "ping.pe":http://ping.pe/ - 用世界各地服务器 ping 指定服务器，并显示结果
+** "wappalyzer":https://wappalyzer.com/download - 查看网站前端与后端所使用的语言及框架
 * *网站服务相关*
 ** "百度云加速":http://yunjiasu.baidu.com/
 ** "安全宝":http://www.anquanbao.com/
@@ -153,3 +154,19 @@ h3. 壁纸站
 * "WallHaven":http://alpha.wallhaven.cc/
 * "WallpapersWide":http://wallpaperswide.com/
 * "Beautiful Pictures":http://www.picsfor.us/
+
+h3. 免费图片库
+* "stocksnap":https://stocksnap.io/
+* "unsplash":http://unsplash.com/
+* "gratisography":http://www.gratisography.com/
+* "splitshire":http://splitshire.com/
+* "little visuals":http://littlevisuals.co/
+* "death to the stock photo":http://deathtothestockphoto.com/
+* "superfamous":http://superfamous.com/
+* "picjumbo":http://picjumbo.com/
+* "imcreator":http://www.imcreator.com/free
+* "twnsnd":http://nos.twnsnd.co/
+* "getrefe":http://getrefe.tumblr.com/
+* "lock and stock photos":http://lockandstockphotos.com/
+* "snapwiresnaps":http://snapwiresnaps.tumblr.com/
+* "jaymantri":http://jaymantri.com/
