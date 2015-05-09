@@ -77,6 +77,7 @@ h3. Javascript
 *** "Ember.js中文站":http://emberjs.torriacg.org/
 
 * *Library*
+** "mustache":http://mustache.github.io/ - Logic-less templates
 ** "artTemplate":https://github.com/aui/artTemplate - 一款高性能的模版引擎，腾讯前端团队出品
 ** "CasperJS":http://casperjs.org/ - 一款Web应用测试工具，可以实现点击，抓取网页等等功能
 ** "DataTables":http://datatables.net/ - 优雅的前端表格库
