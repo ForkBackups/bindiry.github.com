@@ -92,6 +92,7 @@ h3(#gems). Gems
 * pry: "Github":https://github.com/pry/pry  - 调试工具
 * rake_ui: "Github":https://github.com/rbrant/rake_ui - 图形化Rake任务
 * mongo-rails-instrumentation: "Github":https://github.com/freerange/mongo-rails-instrumentation - 显示 ORM 性能日志
+* "pundit":https://github.com/elabs/pundit - 权限管理系统
 * Server
 ** puma: "Github":https://github.com/evanphx/puma -  a simple, fast, and highly concurrent HTTP 1.1 server for Ruby web applications.
 ** powder: "Github":https://github.com/rodreegez/powder - Makes Pow even easier.

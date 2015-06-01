@@ -43,6 +43,7 @@ h3. NoSQL Database
 
 h3. Other
 * "Twemproxy":https://github.com/twitter/twemproxy - 针对 MemCached 与 Redis 的代理服务器，可以通过它减少Memcached或Redis服务器所打开的连接数
+* "vitess":http://vitess.io/ - Google & Youtube 推出的数据库分片工具
 
 h3. Tools
 * "adminer":http://www.adminer.org/ - 基于 PHP 的强大的单文件数据库管理工具，支持 MySQL, PostgreSQL, SQLite, MS SQL 和 Oracle
