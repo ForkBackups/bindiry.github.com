@@ -72,6 +72,7 @@ h3. Javascript
 ** "Ember.js":http://emberjs.com/ - 一款空前高效的前端框架
 ** "Kissy":http://kissyui.com/ - 由淘宝前端团队发布的一款开源JS类库
 ** "NEJ":http://nej.netease.com/ - 简洁，美观，真正的跨平台web前端开发框架，网易出品
+** "RightJS":http://rightjs.org/
 ** "SeaJS":http://seajs.com/ - SeaJS 是一个遵循CommonJS规范的模块加载框架，可用来轻松加载任意JavaScript模块
 ** "SproutCore":http://www.sproutcore.com/ - iCloud 和 MobileMe 的JS Framework
 *** "Ember.js中文站":http://emberjs.torriacg.org/
